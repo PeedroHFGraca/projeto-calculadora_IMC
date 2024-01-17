@@ -1,5 +1,5 @@
 <p style="text-align: center">
-    <img alt="projeto calculadora_imc" src="./assets/projeto" width="100%">
+    <img alt="projeto calculadora_imc" src="./ASSETS/Img/projeto.png" width="100%">
 </p>
 
 ## 💻 Projeto Calculadora de IMC
