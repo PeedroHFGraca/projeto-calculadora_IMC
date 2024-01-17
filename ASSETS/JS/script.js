@@ -18,7 +18,7 @@ form.addEventListener('submit', function(event){ // Quando clicar no BUTTON para
     if (bmi < 18.5){
         description = 'Cuidado! Você está abaixo do peso!'
     } else if (bmi >= 18.5 && bmi <= 25) {
-        description = 'Você está no peso ideial!'
+        description = 'Você está no peso ideal!'
         value.classList.remove('attencion')
         value.classList.add('normal')// Removendo cor vermelha e adicionando cor verde
         // Adicionar a class('attencion') nas frases. Por padrão deixaremos todas as frases com cor Vermelha para não ter que adicionar em todas
