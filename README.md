@@ -8,7 +8,9 @@ Calcule seu Índice de Massa Corporal utilizando esta calculador de IMC *Respons
 ## 🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologoias:
 
--HTML5 e CSS3
+- HTML5 e CSS3
+
+- JavaScript
 
 
 
